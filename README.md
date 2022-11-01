@@ -101,4 +101,4 @@ Login to you lab kibana instance with the ip of the host.
 *https://host.ip:5601*
 
 use elastic / AMGKZ7xDWcpaQtXWGzff from the output above to login.
-# And of course.. Get some coffee and go outside and get some fresh air when the installation is running.
+# *And of course.. Get some coffee and go outside and get some fresh air when the installation is running.*
