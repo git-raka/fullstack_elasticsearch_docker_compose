@@ -1,0 +1,15 @@
+server.name: "localhost"
+server.host: "0.0.0.0"
+server.port: 5601
+elasticsearch.hosts: ["https://es01:9200"]
+elasticsearch.username: "kibana_system"
+elasticsearch.password: "OP5J01VeD10mdkK9FDst"
+server.ssl.enabled: true
+server.ssl.certificate: /usr/share/elasticsearch/config/certificates/kib01/kib01.crt
+server.ssl.key: /usr/share/elasticsearch/config/certificates/kib01/kib01.key
+elasticsearch.ssl.certificateAuthorities: [ "/usr/share/elasticsearch/config/certificates/ca/ca.crt" ]
+logging.dest: stdout
+logging.silent: false
+logging.quiet: false
+logging.verbose: false
+xpack.encryptedSavedObjects.encryptionKey: "ar87tpeqJ$u8XByVzR%HJY5jSMvMDTnZhM5tYnYtUp!D*@GK&@j"
