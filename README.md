@@ -1,0 +1,1 @@
+# fullstack_elasticsearch_docker_compose
